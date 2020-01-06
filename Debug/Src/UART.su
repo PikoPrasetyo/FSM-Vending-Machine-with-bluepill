@@ -1,0 +1,2 @@
+UART.c:10:6:UART_Print	16	static
+UART.c:14:6:UART_Receive	16	static

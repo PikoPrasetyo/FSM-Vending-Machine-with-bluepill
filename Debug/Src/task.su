@@ -1,0 +1,6 @@
+task.c:44:6:Task_Inisialisasi	4	static
+task.c:49:6:Task_Run	8	static
+task.c:405:15:Button500_ok	16	static
+task.c:420:15:Button1000_ok	16	static
+task.c:435:15:ButtonProses_ok	16	static
+task.c:450:15:ButtonBatal_ok	16	static
